@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "Name Tag": "github:ewqqrwee/markh#my_patch-1"
     },
     "files": [
         "main.blocks",
